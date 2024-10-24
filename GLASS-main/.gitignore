@@ -1,0 +1,20 @@
+# Ignore Python compiled files
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables files
+.env
+
+# Ignore dependency files (if not tracking)
+requirements.txt
+Pipfile.lock
